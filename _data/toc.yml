@@ -23,8 +23,8 @@
 
 # Top-level page
 #- title: Home
-  url: /intro
-  not_numbered: true
+#  url: /intro
+#  not_numbered: true
 
 # External link
 - title: GitHub repository
